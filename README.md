@@ -12,7 +12,7 @@ A comprehensive task management application with LocalStorage persistence, built
 - **Filtering & Sorting:** Filter tasks by Active/Completed and sort by Creation, Due Date, or Priority.
 
 ## Live Demo
-👉 **[Insert Live Deployment Link Here]**
+👉 **https://sct-wd-4-nuzwurypp-astitwa-s-projects.vercel.app**
 
 ## Technologies Used
 - HTML5
